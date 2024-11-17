@@ -22,13 +22,11 @@
 			"settings": {
 				"[python]": {
                     "editor.defaultFormatter": "ms-python.autopep8"
-                },
-				"workbench.colorTheme": "PyCharm Dark+ Theme"
+                }
 			},
 			"extensions": [
 				"ms-python.autopep8",
 				"njpwerner.autodocstring",
-				"meezilla.json",
 				"yzhang.markdown-all-in-one",
 				"gruntfuggly.todo-tree",
 				"ms-vscode-remote.remote-containers",
@@ -39,7 +37,6 @@
 				// "ms-vscode-remote.vscode-remote-extensionpack",
 				"donjayamanne.python-environment-manager",
 				"charliermarsh.ruff",
-				"nicohlr.pycharm",
 				"vscode-icons-team.vscode-icons",
 				"moocfi.test-my-code"
 			]
